@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub](https://github.com/kaiser-sb/advice-generator-app.git)
-- Live Site URL: [Advice Generator App](https://kaiser-sb.github.io/advice-generator-app/)
+- Live Site URL: [Advice Generator App](https://advice-api-frontend.netlify.app/)
 
 ## My process
 
